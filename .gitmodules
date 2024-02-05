@@ -1,0 +1,8 @@
+[submodule "UBOS-template-video-ai-chatbot-nr"]
+	path = UBOS-template-video-ai-chatbot-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-video-ai-chatbot-nr.git
+	branch = main
+[submodule "UBOS-template-video-ai-chatbot-ui"]
+	path = UBOS-template-video-ai-chatbot-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-video-ai-chatbot-ui.git
+	branch = main
